@@ -1,2 +1,2 @@
-import tkinter as tk
-window=tk.Tk()
+import turtle
+turtle.speed=10000
